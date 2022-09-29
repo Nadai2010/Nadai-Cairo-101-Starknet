@@ -17,7 +17,7 @@ StarkNet aún esta en Alpha. Esto significa que sigue en desarrollo, la pintura 
 **Completa los ejercicios y obtén tokens!**
 Este workshop consiste en un conjunto de contratos inteligentes corriendo en la testnet de StarkNet Alpha. Cada contrato es un ejercicio - que remarca alguna característica/feature del lenguaje de programación Cairo.
 
-Al completar el ejercicio se te acreditarán puntos en forma de [ERC20 token](contracts/token/TDERC20.cairo).
+Al completar el ejercicio se te acreditarán puntos en forma de [ERC20 token](token/TDERC20.cairo).
 
 ​Este workshop se enfoca en *leer* código Cairo y contratos inteligentes de StarkNet para entender su sintaxis. No es necesario programar o instalar nada en tu computadora para seguirlo y completarlo.
 
