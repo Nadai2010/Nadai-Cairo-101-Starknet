@@ -98,7 +98,7 @@ Cuando busques hacer algún contrato/transacción, siempre asegúrate de que est
 
 | Tópico                                            | Código del contrato                                        | Contrato en Voyager                                                                                             |
 | ------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| Contador de puntos ERC20                          | [Contador de puntos ERC20](contracts/token/TDERC20.cairo) | [Link](https://goerli.voyager.online/contract/0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c) |
+| Contador de puntos ERC20                          | [Contador de puntos ERC20](token/TDERC20.cairo) | [Link](https://goerli.voyager.online/contract/0x5c6b1379f1d4c8a4f5db781a706b63a885f3f9570f7863629e99e2342ac344c) |
 | Sintaxis general                                  | [Ex01](Lección-01/ex01.cairo)                              | [Link](https://goerli.voyager.online/contract/0x29e2801df18d7333da856467c79aa3eb305724db57f386e3456f85d66cbd58b) |
 | Variables de almacenamiento, getters, asserts     | [Ex02](contracts/ex02.cairo)                              | [Link](https://goerli.voyager.online/contract/0x18ef3fa8b5938a0059fa35ee6a04e314281a3e64724fe094c80e3720931f83f) |
 | Leyendo y escribiendo variables de almacenamiento | [Ex03](contracts/ex03.cairo)                              | [Link](https://goerli.voyager.online/contract/0x79275e734d50d7122ef37bb939220a44d0b1ad5d8e92be9cdb043d85ec85e24) |
@@ -139,9 +139,10 @@ Puedes (y deberías) checkear el estado de tu transacción con la siguiente URL 
 ​
 ​## Reutilizando este proyecto
 
-- Clona el repositorio en tu máquina.
+- Clona el repositorio en tu máquina oficial de [Edu-Starknet](https://github.com/starknet-edu/starknet-cairo-101/tree/spanish).
 - Haz el setup del entorno siguiendo [estas instrucciones](https://starknet.io/docs/quickstart.html#quickstart).
 - Instala [Nile](https://github.com/OpenZeppelin/nile).
+- Si tiene problemas con Nile, puede seguir la repo [Nile Nadai](https://github.com/Nadai2010/Cairo-0.10.0-Starknet-en-Ubuntu-22.04-con-Nile-y-VsCode.)
 - Verifica que el proyecto compile.
 
 ```bash
